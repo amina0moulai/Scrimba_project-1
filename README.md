@@ -40,7 +40,9 @@ function increment() {
 }
 ```
 
-## Lancer le projet
+## Lancer le projet ou site web
+
+- lien : https://compteur-scrimba.netlify.app
 
 ```bash id="l8m3q1"
 npm install
